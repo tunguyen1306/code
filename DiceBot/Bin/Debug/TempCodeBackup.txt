@@ -1,0 +1,33 @@
+chance = 90
+bethigh = true
+basebet = balance/100
+nextbet = basebet
+rollcount = 10
+target = 5
+
+function dobet()
+
+   if (win) then
+
+if profit > target then
+stop()
+end
+
+      chance = 90
+         nextbet = basebet
+   else
+      if chance == 25.00  then
+         nextbet = previousbet * 1.5
+      else
+         chance = 25.00
+            nextbet = previousbet/9
+       end      
+      --change seed every 10 bet
+      if rollcount == 10 then
+      rollcount = 0
+      resetseed();
+      else
+      rollcount = rollcount + 1
+end
+      end
+end
