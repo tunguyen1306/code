@@ -127,7 +127,7 @@ namespace DiceBot
 
             if (System.Windows.Forms.MessageBox.Show("Unfortunately DiceBot cannot register new users at betterbets.io. Want to open the page now?", "Register", System.Windows.Forms.MessageBoxButtons.YesNo) == System.Windows.Forms.DialogResult.Yes)
             {
-                System.Diagnostics.Process.Start("https://betterbets.io/?ref=1301492");
+                System.Diagnostics.Process.Start("https://www.999dice.com/?93699030");
             }
 
             return false;

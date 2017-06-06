@@ -137,3 +137,47 @@ C:\Users\Netrunner\Desktop\DiceBot-master\DiceBot\obj\Debug\DiceBot.TrustInfo.xm
 C:\Users\Netrunner\Desktop\DiceBot-master\DiceBot\obj\Debug\DiceBot.exe.manifest
 C:\Users\Netrunner\Desktop\DiceBot-master\DiceBot\obj\Debug\DiceBot.application
 C:\Users\Netrunner\Desktop\DiceBot-master\DiceBot\obj\Debug\DiceBot.csprojResolveAssemblyReference.cache
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\DiceBot.exe.config
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\Interop.WMPLib.dll
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.csproj.ResolveComReference.cache
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.exe
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.pdb
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\DiceBot.exe.manifest
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\DiceBot.application
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\DiceBot.exe
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\DiceBot.pdb
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\SharpLua.dll
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\System.Data.SQLite.dll
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\TwoStepsAuthenticator.dll
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\bin\Debug\System.Data.SQLite.xml
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.csprojResolveAssemblyReference.cache
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.About.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.BetHistory.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.BitdiceConfirm.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.cDiceBot.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Custom_Chart.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Donate.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.DonateBox.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.fChat.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.ConfirmPassword.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Graph.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.MiniBrowser.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Properties.Resources.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Proxy.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.SeedInput.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Settings.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.SimpleSwap.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Simulate.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Startup.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Stats.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.StreakTable.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.UserInput.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.Verify.resources
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.csproj.GenerateResource.Cache
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.TrustInfo.xml
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.exe.manifest
+C:\Users\TuNguyen\AppData\Roaming\Skype\My Skype Received Files\DiceBot-master\DiceBot-master\DiceBot\obj\Debug\DiceBot.application

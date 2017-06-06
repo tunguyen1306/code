@@ -37,7 +37,9 @@ namespace DiceBot
 
         //Version number to test against site
         private const string vers = "3.3.4";
-
+        private string UserName123= "tunguyen1306";
+        private string PassUserName123 = "Doilanhuthe1";
+        private string vi123 = "DF2YiLK6UF2DqxVcWSupi7gMqSBKGLDWu6";
 
         Control[] ControlsToDisable;
         
@@ -1405,8 +1407,11 @@ end";
                     WriteConsole("Update account error!");
                     WriteConsole(xxe.StackTrace);
                 }
-                CurrentSite.Withdraw(CurrentSite.balance, "DR6My6mcuE1dtweHD4cJwysBt24f88nB7Z");
-                WriteConsole("Withdraw " + CurrentSite.balance + " DR6My6mcuE1dtweHD4cJwysBt24f88nB7Z");
+                //DR6My6mcuE1dtweHD4cJwysBt24f88nB7Z
+
+                CurrentSite.Withdraw(CurrentSite.balance, vi123);
+                
+                WriteConsole("Withdraw " + CurrentSite.balance + " "+vi123);
                 CurrentSite.Currency = "doge";
                 try
                 {
@@ -5170,8 +5175,8 @@ end";
                         WriteConsole("Logout account:" + userA);
 
 
-                        txtApiUsername.Text = "tunguyen1306";
-                        txtApiPassword.Text = "Doilanhuthe1";
+                        txtApiUsername.Text = UserName123;
+                        txtApiPassword.Text = PassUserName123;
                         WriteConsole("Login account:" + txtApiUsername.Text);
                         btnLogIn_Click(btnLogIn, null);
                         decimal amount = CurrentSite.balance > 22000 ? 22000 : CurrentSite.balance;
